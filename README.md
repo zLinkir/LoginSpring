@@ -1,5 +1,5 @@
 # LoginSpring
-Exemplo de Login com Springboot
+Exemplo de Login com Spring
 
 
 Url padrão: 
